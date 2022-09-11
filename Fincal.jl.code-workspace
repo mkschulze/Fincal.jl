@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../JuliaTutorial"
+		}
+	],
+	"settings": {
+		"julia.environmentPath": "/Users/llze/dev/Fincal.jl"
+	}
+}
